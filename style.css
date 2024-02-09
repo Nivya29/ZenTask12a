@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+
+  .card{
+    border:3px solid rgb(0, 128, 62);
+    background-color: #93d548;
+    color: black;
+    text-align: center;
+    padding:10px;
+    box-shadow: 5px 5px 10px #cf9fc1;
+    height:200px;
+    margin-bottom: 30px;
+    line-height: 10px;
+    width:300px;
+    display: inline-flex;
+    flex-direction: row;
+    line-height: 1;
+
+
+  }
+  ul,li{
+    list-style-type:none;
+  }
+
+  
